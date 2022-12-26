@@ -37,8 +37,7 @@ I'm Zakaria Dani 22 years , FullStack engineer
 <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="21px" height="21px"></a>
 <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="21px" height="21px"></a>
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="21px" height="21px"></a>
-
-
+<a href="https://www.jetbrains.com/fr-fr/idea/" title="IntelliJ IDEA"><img src="https://github.com/get-icon/geticon/raw/master/icons/intellij-idea.svg" alt="IntelliJ IDEA" width="21px" height="21px"></a>
 
 
 
