@@ -33,6 +33,13 @@ I'm Zakaria Dani 22 years , FullStack engineer
 <a href="https://rxjs.dev/" title="RxJS"><img src="https://github.com/get-icon/geticon/raw/master/icons/reactivex.svg" alt="RxJS" width="21px" height="21px"></a>
 <a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" width="21px" height="21px"></a>
 <a href="https://nodejs.com/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a>
+<a href="https://sass-lang.com/" title="Sass"><img src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" alt="Sass" width="21px" height="21px"></a>
+<a href="https://material-ui.com/" title="Material UI"><img src="https://github.com/get-icon/geticon/raw/master/icons/material-ui.svg" alt="Material UI" width="21px" height="21px"></a>
+<a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="21px" height="21px"></a>
+<a href="https://nextjs.org/" title="Next.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" alt="Next.js" width="21px" height="21px"></a>
+<a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="21px" height="21px"></a>
+<a href="https://webpack.js.org/" title="webpack"><img src="https://github.com/get-icon/geticon/raw/master/icons/webpack.svg" alt="webpack" width="21px" height="21px"></a>
+<a href="https://www.firebase.com/" title="Firebase"><img src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="Firebase" width="21px" height="21px"></a>
 <a href="https://nestjs.org/" title="Nest"><img src="https://github.com/get-icon/geticon/raw/master/icons/nestjs.svg" alt="Nest" width="21px" height="21px"></a>
 <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="21px" height="21px"></a>
 <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="21px" height="21px"></a>
