@@ -1,5 +1,13 @@
-- 👋 Hi, I’m @ZakariaDani
-- 👀 I’m interested in Web development and Blockchain technologies
-- 🌱 I’m currently a software engineering student
+- ### Zakaria Dani 👋
+I'm Zakaria Dani 22 years , FullStack engineer  
+
+-  I’m currently working on web applications
+-  I’m currently code in spring framework 🐈
+-  👀 I’m interested in Web development and Blockchain technologies
 
 ![Zakaria's github stats](https://github-readme-stats.vercel.app/api?username=ZakariaDani&layout=compact&show_icons=true&theme=dark)
+
+## 📚 Languages :
+
+<img alt="JavaScript in road..." src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakariaDani&layout=compact&theme=dark">
+<br/>
