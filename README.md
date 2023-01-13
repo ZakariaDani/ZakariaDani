@@ -15,7 +15,8 @@ I'm Zakaria Dani 22 years , FullStack engineer
 
 ## 📚 Languages :
 
-<img alt="JavaScript in road..." src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakariaDani&layout=compact&theme=dark">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZakariaDani&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <br/>
 
 
