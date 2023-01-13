@@ -9,7 +9,7 @@ I'm Zakaria Dani 22 years , FullStack engineer
 
 
 ![Zakaria's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZakariaDani&count_private=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZakariaDani&show_icons=true&theme=transparent)
 
 
 
