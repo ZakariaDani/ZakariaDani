@@ -8,7 +8,7 @@ I'm Zakaria Dani 22 years , FullStack engineer
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 
-![Zakaria's GitHub stats](https://github-readme-stats-j6iefeiri-zakariadani.vercel.app/api?username=ZakariaDani&show_icons=true&theme=transparent)
+![Zakaria's GitHub stats](https://github-readme-stats-zakariadani.vercel.app/api?username=ZakariaDani&show_icons=true&theme=transparent)
 
 
 
