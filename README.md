@@ -9,7 +9,7 @@ I'm Zakaria Dani 22 years , FullStack engineer
 
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ZakariaDani?cardType=level-alternate&theme=vue-dark)](https://git.io/awesome-stats-card)
-<img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/ZakariaDani/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 
 
 
