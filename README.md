@@ -75,6 +75,9 @@
 ### Tools & Technologies
 <p>
   <a href="https://www.docker.com/" title="Docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="Docker" width="40px" height="40px"></a>
+  <a href="https://www.keycloak.org/" title="Keycloak"><img src="https://github.com/get-icon/geticon/raw/master/icons/keycloak.svg" alt="Keycloak" width="40px" height="40px"></a>
+  <a href="https://www.consul.io/" title="Consul"><img src="https://github.com/get-icon/geticon/raw/master/icons/consul.svg" alt="Consul" width="40px" height="40px"></a>
+  <a href="https://www.vaultproject.io/" title="Vault"><img src="https://github.com/get-icon/geticon/raw/master/icons/vault.svg" alt="Vault" width="40px" height="40px"></a>
   <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="40px" height="40px"></a>
   <a href="https://www.npmjs.com/" title="npm"><img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="npm" width="40px" height="40px"></a>
   <a href="https://webpack.js.org/" title="Webpack"><img src="https://github.com/get-icon/geticon/raw/master/icons/webpack.svg" alt="Webpack" width="40px" height="40px"></a>
