@@ -90,6 +90,8 @@
 <p>
   <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="40px" height="40px"></a>
   <a href="https://www.jetbrains.com/idea/" title="IntelliJ IDEA"><img src="https://github.com/get-icon/geticon/raw/master/icons/intellij-idea.svg" alt="IntelliJ IDEA" width="40px" height="40px"></a>
+  <a href="https://www.jetbrains.com/webstorm/" title="WebStorm"><img src="https://github.com/get-icon/geticon/raw/master/icons/webstorm.svg" alt="WebStorm" width="40px" height="40px"></a>
+  <a href="https://cursor.sh/" title="Cursor"><img src="https://cursor.sh/brand/icon.svg" alt="Cursor" width="40px" height="40px"></a>
 </p>
 
 ---
